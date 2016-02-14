@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ParseQueryAdapter.iml" filepath="$PROJECT_DIR$/ParseQueryAdapter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParseQueryAdapter/ParseQueryAdapter-ParseQueryAdapter.iml" filepath="$PROJECT_DIR$/ParseQueryAdapter/ParseQueryAdapter-ParseQueryAdapter.iml" />
     </modules>
   </component>
 </project>
